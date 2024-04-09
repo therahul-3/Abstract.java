@@ -1,0 +1,17 @@
+Enter Student Id
+91
+Enter Student name
+rahul
+Enter Department name
+CSE
+Enter gender
+Male
+Enter category
+DayScholar
+Enter College fee
+70000
+Enter Bus number
+7
+Enter the distance
+19
+Total College fee is 82000.0
